@@ -1,2 +1,4 @@
 # Индивидуальный план работы Евтухова В.Д.
-1) Просмотреть курс по Maya  2020
+1) Просмотреть курс по Maya  "Pluralsight - Maya Modeling Fundamentals"
+
+
